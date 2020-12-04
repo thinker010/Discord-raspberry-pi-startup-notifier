@@ -1,6 +1,6 @@
 [Desktop Entry]
 Type=Application
 Encoding=UTF-8
-Name=Discord_Startup_Notification_FYP
-Exec=/usr/bin/python /home/pi/index.py
+Name=YOUR_DESIRED_NAME
+Exec=/usr/bin/python /home/pi/main.py
 Terminal=False
