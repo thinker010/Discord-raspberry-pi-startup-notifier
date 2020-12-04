@@ -1,4 +1,9 @@
 # Discord-raspberry-pi-startup-notifier
+This project is about how to receive notification when raspberry pi boots up in discord through discord webhooks(after entering desktop).
+
+
+
+
 First download the zip file and extract in your raspberry pi(.).
 Then copy the main.desktop file and paste it in here /etc/xdg/autostart.
 then paste the main.py to the pi folder at /home/pi (or where ever you want but you have to change the address of the main.py file in main.desktop )
