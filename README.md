@@ -10,6 +10,5 @@ now go to the terminal and make the python file executable by typing sudo chmod 
 
 Source: https://pypi.org/project/discord-webhook/
         
-        
-        https://www.hackster.io/kamal-khan/desktop-shortcut-for-python-script-on-raspberry-pi-fd1c63
+   https://www.hackster.io/kamal-khan/desktop-shortcut-for-python-script-on-raspberry-pi-fd1c63
 Hoping this was helpful.:)
