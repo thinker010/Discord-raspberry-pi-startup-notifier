@@ -12,7 +12,7 @@ now go to the terminal and make the python file executable by typing *sudo chmod
 
 
 
-#HOW TO GET YOUR WEBHOOK URL:
+# HOW TO GET YOUR WEBHOOK URL:
 
 https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks
 
@@ -20,7 +20,7 @@ https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks
 
 
 
-#Source: 
+# Source: 
 
 https://pypi.org/project/discord-webhook/
         
