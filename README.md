@@ -4,10 +4,13 @@ This project is about how to send notification in discord through discord webhoo
 
 
 
-First download the zip file through command `git clone https://github.com/thinker010/Discord-raspberry-pi-startup-notifier.git` in  and extract in your raspberry pi.
-Then copy the `main.desktop` file and paste it in here `/etc/xdg/autostart`.
-then paste the `main.py` to the pi folder at `/home/pi` (or where ever you want but you have to change the address of the `main.py` file in main.desktop)
-now go to the terminal and make the python file executable by typing `sudo chmod +x main.py`.Now configure your code by typing your desired message.
+
+
+1. First download the zip file through command `git clone https://github.com/thinker010/Discord-raspberry-pi-startup-notifier.git` in  and extract in your raspberry pi.
+2. Then copy the `main.desktop` file and paste it in here `/etc/xdg/autostart`.
+3. Then paste the `main.py` to the pi folder at `/home/pi` (or where ever you want but you have to change the address of the `main.py` file in main.desktop)
+4. Now go to the terminal and make the python file executable by typing `sudo chmod +x main.py`.
+5. Now configure your code by typing your desired message.
 
 
 Hoping this was helpful.:)
