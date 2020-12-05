@@ -5,7 +5,7 @@ This project is about how to send notification in discord through discord webhoo
 **Requirements**
 1. python3(`sudo apt install python3`)
 2. pip3(`sudo apt-get install python3-pip`)
-3. discord(sudo pip3 install discord`)
+3. discord(`sudo pip3 install discord`)
 4. discord webhooks(`sudo pip3 install discord-webhooks`)
 5. requests (`sudo apt install requests`)
 
