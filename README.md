@@ -9,7 +9,7 @@ This project is about how to send notification in discord through discord webhoo
 4. discord webhooks(`sudo pip3 install discord-webhooks`)
 5. requests (`sudo apt install requests`)
 
-~Preperation~
+**Preperation**
 
 1. First download the zip file through command `git clone https://github.com/thinker010/Discord-raspberry-pi-startup-notifier.git` in  and extract in your raspberry pi.
 2. Then copy the `main.desktop` file and paste it in here `/etc/xdg/autostart`.
@@ -19,6 +19,10 @@ This project is about how to send notification in discord through discord webhoo
 
 
 Hoping this was helpful.:)
+
+
+
+If its not working try updating python3 `sudo apt install python3` again
 
 
 
