@@ -8,7 +8,7 @@ This project is about how to send any kind of notification in discord channel th
 3. pip3: `sudo apt-get install python3-pip`
 4. discord.py: `sudo pip3 install discord`
 5. discord_webhooks.py: `sudo pip3 install discord-webhooks`
-6. requests: `sudo apt install requests`
+6. requests: `sudo pip3 install requests`
 
 **HOW TO GET YOUR DISCORD WEBHOOK URL(NEEDED):**
 
