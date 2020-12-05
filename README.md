@@ -20,7 +20,7 @@ https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks
 1. First download the repo using the command `git clone https://github.com/thinker010/Discord-raspberry-pi-startup-notifier.git` in terminal.
 2. Then copy the `main.desktop` file and paste it in here `/etc/xdg/autostart`.
 3. Then paste the `main.py` to the pi folder at `/home/pi`.
-4. Now in `main.py`, Replace '[`YOUR DISCORD WEBHOOK URL`]'(https://github.com/thinker010/Discord-raspberry-pi-startup-notifier/blob/a6c1aa99d43b6c33258f546bdc98eb42bb3f1119/main.py#L3)(keeping the single quotes) with [your Discord channel webhook URL](https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks). 
+4. Now in `main.py`, Replace ['`YOUR DISCORD WEBHOOK URL`'](https://github.com/thinker010/Discord-raspberry-pi-startup-notifier/blob/a6c1aa99d43b6c33258f546bdc98eb42bb3f1119/main.py#L3)(keeping the single quotes) with [your Discord channel webhook URL](https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks). 
 5. You can set a custom message in the [content variable](https://github.com/thinker010/Discord-raspberry-pi-startup-notifier/blob/a6c1aa99d43b6c33258f546bdc98eb42bb3f1119/main.py#L3)(keeping the single quotes).
 6. Now go to the terminal and make the python file executable by typing `sudo chmod +x main.py` in `/home/pi`.
 
