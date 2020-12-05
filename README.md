@@ -2,8 +2,7 @@
 This project is about how to send notification in discord through discord webhooks when raspberry pi boots up(after entering desktop).
 
 
-
-
+**Requirements**
 
 
 1. First download the zip file through command `git clone https://github.com/thinker010/Discord-raspberry-pi-startup-notifier.git` in  and extract in your raspberry pi.
