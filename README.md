@@ -22,14 +22,17 @@ Hoping this was helpful.:)
 
 
 
-If its not working try updating python3 `sudo apt install python3` again
-
-
 
 
 # HOW TO GET YOUR WEBHOOK URL:
 
 https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks
+
+
+
+# Troubleshooting:
+1. If its not working try updating python3 `sudo apt install python3` again
+2. Dont try it on terminal because it doesnt work on terminal but u can try it on thonny editor or complete the whole process and check if it sends the message
 
 
 
