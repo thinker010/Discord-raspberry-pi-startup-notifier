@@ -2,5 +2,5 @@
 Type=Application
 Encoding=UTF-8
 Name=YOUR_DESIRED_NAME
-Exec=/usr/bin/python /home/pi/main.py
+Exec=/usr/bin/python3 /home/pi/main.py
 Terminal=False
