@@ -31,6 +31,8 @@ For Pi's with monitor:-
   Use [cp command](https://www.raspberrypi.org/documentation/linux/usage/commands.md) and, copy and paste the files in places mentioned above
 
 
+# Procedure All in CLI(Use this to copy and paste the commands directly while watching)
+<a href="https://asciinema.org/a/GE5SdBMJIRsjL4dGEH23v6Vb8" target="_blank"><img src="https://asciinema.org/a/GE5SdBMJIRsjL4dGEH23v6Vb8.svg" /></a>
 
 # Troubleshooting
 1. If its not working try updating python3 `sudo apt install python3` again.
