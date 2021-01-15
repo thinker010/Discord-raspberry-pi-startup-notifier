@@ -2,8 +2,8 @@
 This project is about how to send any kind of notification(here, raspberry pi start up notification) in discord channel through discord webhooks when raspberry pi boots up(after entering desktop).
 
 # Contains 2 main python files (either one can be used)
-main.py - Sends Basic notification to your Discord channel
-main_lan_ip.py - Checks and waits for internet connection then sends notification to your Discord Channel with startup time and local lan IP either connected via WiFi or Ethernet.
+1. main.py - Sends Basic notification to your Discord channel
+2. main_lan_ip.py - Checks and waits for internet connection then sends notification to your Discord Channel with startup time and local lan IP either connected via WiFi or Ethernet.
 
 
 # Requirements
