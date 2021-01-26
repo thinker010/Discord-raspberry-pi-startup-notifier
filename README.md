@@ -30,7 +30,7 @@ For Pi's with monitor:-
   5. You can set a custom message in the [content variable](https://github.com/thinker010/Discord-raspberry-pi-startup- notifier/blob/a6c1aa99d43b6c33258f546bdc98eb42bb3f1119/main.py#L3)(keeping the single quotes).
   6. Now go to the terminal and make the python file executable by typing `sudo chmod +x main.py` in `/home/pi`.
   
-  For pi's without monitor:
+  For pi's without monitor:-
   
   Use [cp command](https://www.raspberrypi.org/documentation/linux/usage/commands.md) and, copy and paste the files in places mentioned above
 
