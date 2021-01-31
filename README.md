@@ -59,4 +59,5 @@ https://pypi.org/project/discord-webhook/
 https://www.hackster.io/kamal-khan/desktop-shortcut-for-python-script-on-raspberry-pi-fd1c63
 
 # More help or issue
-[Click here](https://github.com/thinker010/Discord-raspberry-pi-startup-notifier/issues)
+1. [Click here](https://github.com/thinker010/Discord-raspberry-pi-startup-notifier/issues)
+2. ask in my discord dm thinker010#4451
