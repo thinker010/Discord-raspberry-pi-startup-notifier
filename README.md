@@ -8,10 +8,9 @@ This project is about how to send any kind of notification(here, raspberry pi st
 
 # Requirements
 
-**Basic knowledge of :**
-  1. python in linux.
-  2. terminal in linux.
-  3. and python apps.
+  1. Basic knowledge of python in linux.
+  2. Basic knowledge of terminal in linux.
+  3. Basic knowledge of python apps.
   
 1. Raspberry Pi with an Internet connection.
 2. python3: `sudo apt install python3`
